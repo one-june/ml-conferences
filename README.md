@@ -12,7 +12,7 @@
 | **July**      | 🔁 **NeurIPS** rebuttal period                                                                | 🟦 **ICML**                   |
 | **August**    | –                                                                                             | 🟫 **ECCV** *(even years)*    |
 | **September** | ✏️ **ICLR** full paper submission                                                               | –                             |
-| **October**   | ✏️ **AISTATS** paper submission                          | 🟧 **ICCV** *(odd years)*     |
+| **October**   |                           | 🟧 **ICCV** *(odd years)*     |
 | **November**  | 🔁 **ICLR** rebuttal period<br>✏️ **CVPR** paper submission<br> | –                             |
 | **December**  |                                                    | 🟨 **NeurIPS**                |
 
