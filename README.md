@@ -5,9 +5,9 @@
 | ------------- | --------------------------------------------------------------------------------------------- | ----------------------------- |
 | **January**   | 🔁 **CVPR** rebuttal period                                                                   | –                             |
 | **February**  | –                                                                                             | –                             |
-| **March**     | ✏️ **ICML** paper submission<br>🔁 **ICML** rebuttal period<br>✏️ **ICCV** paper submission   | –                             |
+| **March**     | ✏️ **ICML** paper submission<br>🔁 **ICML** rebuttal period<br>✏️ **ICCV/ECCV** paper submission   | –                             |
 | **April**     | –                                                                                             | 🟩 **ICLR**                   |
-| **May**       | ✏️ **NeurIPS** paper submission<br>🔁 **ICCV** rebuttal period<br>🔁 **ECCV** rebuttal period | 🟪 **AISTATS**                |
+| **May**       | ✏️ **NeurIPS** paper submission<br>🔁 **ICCV/ECCV** rebuttal period<br> | 🟪 **AISTATS**                |
 | **June**      | –                                                                                             | 🟥 **CVPR**                   |
 | **July**      | 🔁 **NeurIPS** rebuttal period                                                                | 🟦 **ICML**                   |
 | **August**    | –                                                                                             | 🟫 **ECCV** *(even years)*    |
