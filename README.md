@@ -7,12 +7,12 @@
 | **February**  | –                                                                                             | –                             |
 | **March**     | 🔁 **ICML** rebuttal period<br>✏️ **ICCV/ECCV** paper submission   | –                             |
 | **April**     | –                                                                                             | 🟩 **ICLR**                   |
-| **May**       | ✏️ **NeurIPS** paper submission<br>🔁 **ICCV/ECCV** rebuttal period<br> | 🟪 **AISTATS**                |
+| **May**       | ✏️ **NeurIPS** paper submission<br>🔁 **ICCV/ECCV** rebuttal period<br> |                |
 | **June**      | –                                                                                             | 🟥 **CVPR**                   |
 | **July**      | 🔁 **NeurIPS** rebuttal period                                                                | 🟦 **ICML**                   |
 | **August**    | –                                                                                             | 🟫 **ECCV** *(even years)*    |
-| **September** | ✏️ **ICLR** abstract submission                                                               | –                             |
-| **October**   | ✏️ **ICLR** full paper submission<br>✏️ **AISTATS** paper submission                          | 🟧 **ICCV** *(odd years)*     |
-| **November**  | 🔁 **ICLR** rebuttal period<br>✏️ **CVPR** paper submission<br>🔁 **AISTATS** rebuttal period | –                             |
-| **December**  | 🔁 **AISTATS** rebuttal period (concludes)                                                    | 🟨 **NeurIPS**                |
+| **September** | ✏️ **ICLR** full paper submission                                                               | –                             |
+| **October**   | ✏️ **AISTATS** paper submission                          | 🟧 **ICCV** *(odd years)*     |
+| **November**  | 🔁 **ICLR** rebuttal period<br>✏️ **CVPR** paper submission<br> | –                             |
+| **December**  |                                                    | 🟨 **NeurIPS**                |
 
