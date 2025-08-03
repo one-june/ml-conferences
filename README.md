@@ -3,9 +3,9 @@
 
 | **Month**     | **Typical Deadlines / Rebuttals**                                                             | **Conference Takes Place In** |
 | ------------- | --------------------------------------------------------------------------------------------- | ----------------------------- |
-| **January**   | 🔁 **CVPR** rebuttal period                                                                   | –                             |
+| **January**   | 🔁 **CVPR** rebuttal period<br>✏️ **ICML** paper submission<br>                                                               | –                             |
 | **February**  | –                                                                                             | –                             |
-| **March**     | ✏️ **ICML** paper submission<br>🔁 **ICML** rebuttal period<br>✏️ **ICCV/ECCV** paper submission   | –                             |
+| **March**     | 🔁 **ICML** rebuttal period<br>✏️ **ICCV/ECCV** paper submission   | –                             |
 | **April**     | –                                                                                             | 🟩 **ICLR**                   |
 | **May**       | ✏️ **NeurIPS** paper submission<br>🔁 **ICCV/ECCV** rebuttal period<br> | 🟪 **AISTATS**                |
 | **June**      | –                                                                                             | 🟥 **CVPR**                   |
